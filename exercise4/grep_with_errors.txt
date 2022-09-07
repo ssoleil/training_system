@@ -1,0 +1,74 @@
+grep: /var/log/boot.log: Permission denied
+/var/log/bootstrap.log:dpkg: warning: parsing file '/var/lib/dpkg/status' near line 5 package 'dpkg':
+/var/log/bootstrap.log:dpkg: warning: parsing file '/var/lib/dpkg/status' near line 5 package 'dpkg':
+/var/log/bootstrap.log:dpkg: warning: parsing file '/var/lib/dpkg/status' near line 24 package 'dpkg':
+/var/log/bootstrap.log:dpkg: warning: parsing file '/var/lib/dpkg/status' near line 24 package 'dpkg':
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: parsing file '/var/lib/dpkg/status' near line 59 package 'dpkg':
+/var/log/bootstrap.log:dpkg: warning: parsing file '/var/lib/dpkg/status' near line 59 package 'dpkg':
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
+/var/log/bootstrap.log:dpkg: warning: ignoring pre-dependency problem!
