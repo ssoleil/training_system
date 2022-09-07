@@ -1,0 +1,20 @@
+1. mkdir training_system
+   cd training_systen
+   mkdir exercise4
+   cd exercise4
+  
+2. touch file1.txt
+   echo "Exercise4" > file1.txt
+   
+3. wc -l file1.txt
+
+4. ls -al /home/lina > exercise4/file2.txt
+
+5. tail file2.txt | wc -l		//10
+
+6. grep "warning" /var/log/*.log | wc -l	//error + 73
+
+7. grep "warning" /var/log/*.log 2> /dev/null		//remove all errors
+
+8. rep "warning" /var/log/*.log > grep_with_errors.txt 2&>1
+
